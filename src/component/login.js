@@ -3,7 +3,7 @@ import React from 'react'
 const Login = () => {
     return (
         <div className="box">
-            <form>
+            <form style={{ padding: '5% 10%', background: '#000'}}>
                 <h1>Login</h1>
                 <p className="text-muted"> Please enter your login and password!</p> 
                 <input type="text" name="" placeholder="Username" /> 

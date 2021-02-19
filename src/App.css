@@ -99,7 +99,7 @@ body {
   width: 100%;
   padding: 40px;
   position: absolute;
-  background: #191919;
+  background: linear-gradient(to right, blue , rgb(228, 36, 228));
   text-align: center;
   transition: 0.25s;
   height: 100vh;

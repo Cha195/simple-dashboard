@@ -3,7 +3,7 @@ import React from 'react'
 const Register = () => {
     return (
         <div className="box">
-            <form >
+            <form style={{ padding: '5% 10%', background: '#000'}}>
                 <h1>Sign Up</h1>
                 <input type="text" name="" placeholder="Full Name" />
                 <input type="text" name="" placeholder="Username" /> 
